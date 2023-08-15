@@ -1,4 +1,4 @@
-from setup import *
+from Program_Logic.setup import *
 
 class Unfollow:
     def __init__(self, driver, username):

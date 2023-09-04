@@ -4,7 +4,10 @@ A Python script which uses Selenium WebDriver to gradually generate followers fo
 **NOTE: Still under construction.
 
 # Recent updates
-- Improved GUI, expanded User settings
+- Improved GUI
+- Expanded User Settings
+- Split Modes: Automatic, Unfollow/Follow-Only
+- Updated Selenium tags
 
 ## Dependencies
 Tkinter

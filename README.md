@@ -9,6 +9,9 @@ A Python script which uses Selenium WebDriver to gradually generate followers fo
 - Split Modes: Automatic, Unfollow/Follow-Only
 - Updated Selenium tags
 
+### Current problems
+- Improved Instagram security measures banning bot-activity. Currently, I need to re-work some of the provisions that make the bot act more humanistic in order to avoid account bans. Use at your own discresion.
+
 ### Dependencies
 Tkinter
 SeleniumWebDriver
